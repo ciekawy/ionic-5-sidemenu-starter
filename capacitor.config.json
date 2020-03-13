@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "i5MenuApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

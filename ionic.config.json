@@ -1,0 +1,7 @@
+{
+  "name": "i5MenuApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
